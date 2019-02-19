@@ -5,9 +5,14 @@
 	"Description": "",
 	"Plugins": [
 		{
+<<<<<<< HEAD
 			"Name": "Substance",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+=======
+			"Name": "ApexDestruction",
+			"Enabled": true
+>>>>>>> Programing
 		}
 	],
 	"TargetPlatforms": [
